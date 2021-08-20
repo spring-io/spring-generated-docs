@@ -19,7 +19,7 @@ asciidoc:
     spring-framework-api-url: https://docs.spring.io/spring-framework/docs/current/javadoc-api/
     spring-framework-reference-url: https://docs.spring.io/spring-framework/docs/current/reference/html/
     spring-security-version: 6.0.0
-    unboundid-ldapsdk-version: 4.1
+    unboundid-ldapsdk-version: 4.1-GENERATED
 nav:
 - modules/ROOT/nav.adoc
 
