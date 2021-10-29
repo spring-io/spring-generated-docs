@@ -17,11 +17,6 @@ asciidoc:
     version-release: false
     version-snapshot: true
 
-    junit-version: 4.13.2
-    mockito-core-version: 4.0.0
-    spring-security-test-version: 5.6.0-RC1
-    spring-test-version: 5.3.11
-    assertj-core-version: 3.21.0
     spring-session-data-redis-version: 2.6.0-SNAPSHOT
     spring-session-hazelcast-version: 2.6.0-SNAPSHOT
     spring-session-jdbc-version: 2.6.0-SNAPSHOT
@@ -31,7 +26,11 @@ asciidoc:
     spring-webmvc-version: 5.3.11
     spring-websocket-version: 5.3.11
     spring-security-config-version: 5.6.0-RC1
+    spring-security-test-version: 5.6.0-RC1
     spring-security-web-version: 5.6.0-RC1
+    mockito-core-version: 4.0.0
+    spring-test-version: 5.3.11
+    assertj-core-version: 3.21.0
     hazelcast-version: 3.12.12
     lettuce-core-version: 6.1.5.RELEASE
     javax.servlet-api-version: 4.0.1
@@ -39,10 +38,6 @@ asciidoc:
     junit-platform-commons-version: 1.8.1
     junit-jupiter-engine-version: 5.8.1
     junit-jupiter-api-version: 5.8.1
-    hamcrest-core-version: 1.3
-    byte-buddy-version: 1.11.19
-    byte-buddy-agent-version: 1.11.19
-    objenesis-version: 3.2
     spring-security-core-version: 5.6.0-RC1
     spring-data-redis-version: 2.6.0-RC1
     spring-data-keyvalue-version: 2.6.0-RC1
@@ -58,6 +53,9 @@ asciidoc:
     spring-core-version: 5.3.11
     spring-jcl-version: 5.3.11
     javax.annotation-api-version: 1.3.2
+    byte-buddy-version: 1.11.19
+    byte-buddy-agent-version: 1.11.19
+    objenesis-version: 3.2
     netty-handler-version: 4.1.68.Final
     netty-codec-version: 4.1.68.Final
     netty-transport-version: 4.1.68.Final
