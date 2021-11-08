@@ -21,6 +21,7 @@ asciidoc:
     version-milestone: false
     version-release: false
     version-snapshot: true
+    spring-boot-version: 2.5.5
 
     spring-session-data-redis-version: 2.6.0-SNAPSHOT
     spring-session-hazelcast-version: 2.6.0-SNAPSHOT
