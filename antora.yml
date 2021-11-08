@@ -1,6 +1,11 @@
 name: session
+version: 2.6
+
 title: Spring Session
 start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+
 asciidoc:
   attributes:
     download-url: "https://github.com/spring-projects/spring-session/archive/main.zip"
