@@ -1,5 +1,6 @@
 name: ROOT
-version: 5.6.1
+version: 5.6.2
+prerelease: -SNAPSHOT
 
 title: Spring Security
 start_page: ROOT:index.adoc
