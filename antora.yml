@@ -1,0 +1,75 @@
+name: ROOT
+version: '3.0.0'
+prerelease: '-SNAPSHOT'
+
+title: Spring Session
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+
+asciidoc:
+  attributes:
+    download-url: "https://github.com/spring-projects/spring-session/archive/main.zip"
+    gh-samples-url: "https://github.com/spring-projects/spring-session/tree/main/spring-session-samples/"
+    samples-dir: "example$spring-session-samples/"
+    session-jdbc-main-resources-dir: "example$session-jdbc-main-resources-dir/"
+    spring-session-data-mongodb-dir: "example$spring-session-data-mongodb-dir/"
+    docs-test-dir: "example$java/"
+    websocketdoc-test-dir: 'example$java/docs/websocket/'
+    docs-test-resources-dir: "example$resources/"
+    indexdoc-tests: "example$java/docs/IndexDocTests.java"
+    spring-session-version: 3.0.0-SNAPSHOT
+    version-milestone: false
+    version-release: false
+    version-snapshot: true
+    spring-boot-version: 2.5.5
+
+    spring-session-data-redis-version: 3.0.0-SNAPSHOT
+    spring-session-jdbc-version: 3.0.0-SNAPSHOT
+    spring-session-core-version: 3.0.0-SNAPSHOT
+    spring-jdbc-version: 6.0.0-SNAPSHOT
+    spring-messaging-version: 6.0.0-SNAPSHOT
+    spring-webmvc-version: 6.0.0-SNAPSHOT
+    spring-websocket-version: 6.0.0-SNAPSHOT
+    spring-security-config-version: 6.0.0-SNAPSHOT
+    spring-security-test-version: 6.0.0-SNAPSHOT
+    spring-security-web-version: 6.0.0-SNAPSHOT
+    mockito-core-version: 4.0.0
+    spring-test-version: 6.0.0-SNAPSHOT
+    assertj-core-version: 3.21.0
+    hazelcast-version: 4.2.2
+    lettuce-core-version: 6.1.5.RELEASE
+    jakarta.annotation-api-version: 2.0.0
+    jakarta.servlet-api-version: 5.0.0
+    junit-platform-engine-version: 1.8.1
+    junit-platform-commons-version: 1.8.1
+    junit-jupiter-engine-version: 5.8.1
+    junit-jupiter-api-version: 5.8.1
+    spring-security-core-version: 6.0.0-SNAPSHOT
+    spring-data-redis-version: 3.0.0-SNAPSHOT
+    spring-data-keyvalue-version: 3.0.0-SNAPSHOT
+    spring-context-support-version: 6.0.0-SNAPSHOT
+    spring-context-version: 6.0.0-SNAPSHOT
+    spring-tx-version: 6.0.0-SNAPSHOT
+    spring-aop-version: 6.0.0-SNAPSHOT
+    spring-web-version: 6.0.0-SNAPSHOT
+    spring-oxm-version: 6.0.0-SNAPSHOT
+    spring-data-commons-version: 3.0.0-SNAPSHOT
+    spring-beans-version: 6.0.0-SNAPSHOT
+    spring-expression-version: 6.0.0-SNAPSHOT
+    spring-core-version: 6.0.0-SNAPSHOT
+    spring-jcl-version: 6.0.0-SNAPSHOT
+    byte-buddy-version: 1.11.19
+    byte-buddy-agent-version: 1.11.19
+    objenesis-version: 3.2
+    netty-handler-version: 4.1.68.Final
+    netty-codec-version: 4.1.68.Final
+    netty-transport-version: 4.1.68.Final
+    netty-resolver-version: 4.1.68.Final
+    netty-buffer-version: 4.1.68.Final
+    netty-common-version: 4.1.68.Final
+    reactor-core-version: 3.4.11
+    opentest4j-version: 1.2.0
+    slf4j-api-version: 1.7.32
+    spring-security-crypto-version: 6.0.0-SNAPSHOT
+    reactive-streams-version: 1.0.3
