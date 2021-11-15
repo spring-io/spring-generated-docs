@@ -1,5 +1,5 @@
 name: ROOT
-version: '5.6.0'
+version: '5.6.1'
 prerelease: '-SNAPSHOT'
 
 title: Spring Security
