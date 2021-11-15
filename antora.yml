@@ -16,7 +16,7 @@ asciidoc:
     security-reference-url: https://docs.spring.io/spring-security/site/docs/current/reference/html5/
     spring-framework-api-url: https://docs.spring.io/spring-framework/docs/5.3.13/javadoc-api/
     spring-framework-reference-url: https://docs.spring.io/spring-framework/docs/5.3.13/reference/html/
-    spring-security-version: 5.6.0-SNAPSHOT
+    spring-security-version: 5.6.1-SNAPSHOT
 
     unboundid-ldapsdk-version: 4.0.14
     apacheds-core-version: 1.5.5
