@@ -1,6 +1,5 @@
 name: ROOT
 version: '2.6.1'
-prerelease: '-SNAPSHOT'
 
 title: Spring Session
 start_page: ROOT:index.adoc
