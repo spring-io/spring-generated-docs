@@ -1,6 +1,7 @@
 name: ROOT
-version: '2.7.0'
-prerelease: '-M1'
+version: '2.7.0-M1'
+prerelease: 'true'
+display_version: '2.7.0-M1'
 
 title: Spring Session
 start_page: ROOT:index.adoc
