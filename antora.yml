@@ -40,7 +40,7 @@ asciidoc:
     assertj-core-version: 3.21.0
     hazelcast-version: 3.12.12
     lettuce-core-version: 6.1.5.RELEASE
-    javax.servlet-api-version: 4.0.1
+    jakarta.servlet-api-version: 4.0.4
     junit-platform-engine-version: 1.8.2
     junit-platform-commons-version: 1.8.2
     junit-jupiter-engine-version: 5.8.2
