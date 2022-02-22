@@ -1,6 +1,5 @@
 name: ROOT
-version: '2.6.3'
-prerelease: '-SNAPSHOT'
+version: '2.6.2'
 
 title: Spring Session
 start_page: ROOT:index.adoc
@@ -18,7 +17,7 @@ asciidoc:
     websocketdoc-test-dir: 'example$java/docs/websocket/'
     docs-test-resources-dir: "example$resources/"
     indexdoc-tests: "example$java/docs/IndexDocTests.java"
-    spring-session-version: 2.6.3-SNAPSHOT
+    spring-session-version: 2.6.2
     version-milestone: false
     version-release: false
     version-snapshot: true
