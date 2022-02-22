@@ -1,5 +1,5 @@
 name: ROOT
-version: '2.6.2'
+version: '2.6.3'
 prerelease: '-SNAPSHOT'
 
 title: Spring Session
