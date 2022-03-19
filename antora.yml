@@ -41,7 +41,7 @@ asciidoc:
     shared-cursor-version: 0.9.15
     shared-asn1-version: 0.9.15
     shared-ldap-constants-version: 0.9.15
-    slf4j-api-version: 1.7.33
+    slf4j-api-version: 1.7.36
     spring-jcl-version: 6.0.0-M2
     bcprov-jdk15-version: 140
     commons-io-version: 1.4
