@@ -22,7 +22,7 @@ asciidoc:
     version-milestone: false
     version-release: false
     version-snapshot: true
-    spring-boot-version: 2.5.6
+    spring-boot-version: 2.7.0-M3
 
     spring-session-data-redis-version: 2.7.0-SNAPSHOT
     spring-session-hazelcast-version: 2.7.0-SNAPSHOT
