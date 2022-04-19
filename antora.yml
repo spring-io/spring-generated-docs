@@ -46,15 +46,15 @@ asciidoc:
     junit-jupiter-engine-version: 5.8.2
     junit-jupiter-api-version: 5.8.2
     spring-security-core-version: 5.7.0-RC1
-    spring-data-redis-version: 2.7.0-M2
-    spring-data-keyvalue-version: 2.7.0-M2
+    spring-data-redis-version: 2.7.0-RC1
+    spring-data-keyvalue-version: 2.7.0-RC1
     spring-context-support-version: 5.3.19
     spring-context-version: 5.3.19
     spring-tx-version: 5.3.19
     spring-aop-version: 5.3.19
     spring-web-version: 5.3.19
     spring-oxm-version: 5.3.19
-    spring-data-commons-version: 2.7.0-M2
+    spring-data-commons-version: 2.7.0-RC1
     spring-beans-version: 5.3.19
     spring-expression-version: 5.3.19
     spring-core-version: 5.3.19
