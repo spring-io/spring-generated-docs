@@ -22,7 +22,7 @@ asciidoc:
     version-milestone: false
     version-release: false
     version-snapshot: true
-    spring-boot-version: 2.5.5
+    spring-boot-version: 3.0.0-SNAPSHOT
 
     spring-session-data-redis-version: 3.0.0-SNAPSHOT
     spring-session-jdbc-version: 3.0.0-SNAPSHOT
