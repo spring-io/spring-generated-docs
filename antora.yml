@@ -27,15 +27,15 @@ asciidoc:
     spring-session-data-redis-version: 3.0.0-SNAPSHOT
     spring-session-jdbc-version: 3.0.0-SNAPSHOT
     spring-session-core-version: 3.0.0-SNAPSHOT
-    spring-jdbc-version: 6.0.0-M4
-    spring-messaging-version: 6.0.0-M4
-    spring-webmvc-version: 6.0.0-M4
-    spring-websocket-version: 6.0.0-M4
-    spring-security-config-version: 6.0.0-M5
-    spring-security-test-version: 6.0.0-M5
-    spring-security-web-version: 6.0.0-M5
+    spring-jdbc-version: 6.0.0-SNAPSHOT
+    spring-messaging-version: 6.0.0-SNAPSHOT
+    spring-webmvc-version: 6.0.0-SNAPSHOT
+    spring-websocket-version: 6.0.0-SNAPSHOT
+    spring-security-config-version: 6.0.0-SNAPSHOT
+    spring-security-test-version: 6.0.0-SNAPSHOT
+    spring-security-web-version: 6.0.0-SNAPSHOT
     mockito-core-version: 4.2.0
-    spring-test-version: 6.0.0-M4
+    spring-test-version: 6.0.0-SNAPSHOT
     assertj-core-version: 3.22.0
     hazelcast-version: 5.0.2
     lettuce-core-version: 6.1.6.RELEASE
@@ -45,20 +45,20 @@ asciidoc:
     junit-platform-commons-version: 1.8.2
     junit-jupiter-engine-version: 5.8.2
     junit-jupiter-api-version: 5.8.2
-    spring-security-core-version: 6.0.0-M5
+    spring-security-core-version: 6.0.0-SNAPSHOT
     spring-data-redis-version: 3.0.0-M4
     spring-data-keyvalue-version: 3.0.0-M4
-    spring-context-support-version: 6.0.0-M4
-    spring-context-version: 6.0.0-M4
-    spring-tx-version: 6.0.0-M4
-    spring-aop-version: 6.0.0-M4
-    spring-web-version: 6.0.0-M4
-    spring-oxm-version: 6.0.0-M4
+    spring-context-support-version: 6.0.0-SNAPSHOT
+    spring-context-version: 6.0.0-SNAPSHOT
+    spring-tx-version: 6.0.0-SNAPSHOT
+    spring-aop-version: 6.0.0-SNAPSHOT
+    spring-web-version: 6.0.0-SNAPSHOT
+    spring-oxm-version: 6.0.0-SNAPSHOT
     spring-data-commons-version: 3.0.0-M4
-    spring-beans-version: 6.0.0-M4
-    spring-expression-version: 6.0.0-M4
-    spring-core-version: 6.0.0-M4
-    spring-jcl-version: 6.0.0-M4
+    spring-beans-version: 6.0.0-SNAPSHOT
+    spring-expression-version: 6.0.0-SNAPSHOT
+    spring-core-version: 6.0.0-SNAPSHOT
+    spring-jcl-version: 6.0.0-SNAPSHOT
     byte-buddy-version: 1.12.4
     byte-buddy-agent-version: 1.12.4
     objenesis-version: 3.2
@@ -71,6 +71,6 @@ asciidoc:
     reactor-core-version: 3.4.18
     opentest4j-version: 1.2.0
     slf4j-api-version: 1.7.32
-    spring-security-crypto-version: 6.0.0-M5
+    spring-security-crypto-version: 6.0.0-SNAPSHOT
     netty-tcnative-classes-version: 2.0.46.Final
     reactive-streams-version: 1.0.3
