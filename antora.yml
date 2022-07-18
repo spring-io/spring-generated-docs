@@ -37,7 +37,7 @@ asciidoc:
     mockito-core-version: 4.2.0
     spring-test-version: 6.0.0-SNAPSHOT
     assertj-core-version: 3.22.0
-    hazelcast-version: 5.0.2
+    hazelcast-version: 5.0.3
     lettuce-core-version: 6.1.6.RELEASE
     jakarta.annotation-api-version: 2.0.0
     jakarta.servlet-api-version: 5.0.0
