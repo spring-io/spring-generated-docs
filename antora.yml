@@ -14,13 +14,13 @@ asciidoc:
     gh-url: https://github.com/spring-projects/spring-security/tree/main
     security-api-url: https://docs.spring.io/spring-security/site/docs/current/api/
     security-reference-url: https://docs.spring.io/spring-security/site/docs/current/reference/html5/
-    spring-framework-api-url: https://docs.spring.io/spring-framework/docs/5.3.21/javadoc-api/
-    spring-framework-reference-url: https://docs.spring.io/spring-framework/docs/5.3.21/reference/html/
+    spring-framework-api-url: https://docs.spring.io/spring-framework/docs/5.3.22/javadoc-api/
+    spring-framework-reference-url: https://docs.spring.io/spring-framework/docs/5.3.22/reference/html/
     spring-security-version: 5.7.3-SNAPSHOT
 
     unboundid-ldapsdk-version: 4.0.14
     apacheds-core-version: 1.5.5
-    spring-core-version: 5.3.21
+    spring-core-version: 5.3.22
     apacheds-xdbm-search-version: 1.5.5
     apacheds-xdbm-tools-version: 1.5.5
     apacheds-schema-extras-version: 1.5.5
@@ -41,7 +41,7 @@ asciidoc:
     shared-asn1-version: 0.9.15
     shared-ldap-constants-version: 0.9.15
     slf4j-api-version: 1.7.36
-    spring-jcl-version: 5.3.21
+    spring-jcl-version: 5.3.22
     bcprov-jdk15-version: 140
     commons-io-version: 1.4
     commons-lang-version: 2.4
