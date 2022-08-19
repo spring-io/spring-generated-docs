@@ -1,0 +1,76 @@
+name: ROOT
+version: '2.7.1'
+prerelease: '-SNAPSHOT'
+
+title: Spring Session
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+
+asciidoc:
+  attributes:
+    download-url: "https://github.com/spring-projects/spring-session/archive/main.zip"
+    gh-samples-url: "https://github.com/spring-projects/spring-session/tree/main/spring-session-samples/"
+    samples-dir: "example$spring-session-samples/"
+    session-jdbc-main-resources-dir: "example$session-jdbc-main-resources-dir/"
+    spring-session-data-mongodb-dir: "example$spring-session-data-mongodb-dir/"
+    docs-test-dir: "example$java/"
+    websocketdoc-test-dir: 'example$java/docs/websocket/'
+    docs-test-resources-dir: "example$resources/"
+    indexdoc-tests: "example$java/docs/IndexDocTests.java"
+    spring-session-version: 2.7.1-SNAPSHOT
+    version-milestone: false
+    version-release: false
+    version-snapshot: true
+    spring-boot-version: 2.7.0-M3
+
+    spring-session-data-redis-version: 2.7.1-SNAPSHOT
+    spring-session-hazelcast-version: 2.7.1-SNAPSHOT
+    spring-session-jdbc-version: 2.7.1-SNAPSHOT
+    spring-session-core-version: 2.7.1-SNAPSHOT
+    spring-jdbc-version: 5.3.20
+    spring-messaging-version: 5.3.20
+    spring-webmvc-version: 5.3.20
+    spring-websocket-version: 5.3.20
+    spring-security-config-version: 5.7.0
+    spring-security-test-version: 5.7.0
+    spring-security-web-version: 5.7.0
+    mockito-core-version: 4.4.0
+    spring-test-version: 5.3.20
+    assertj-core-version: 3.22.0
+    hazelcast-version: 3.12.12
+    lettuce-core-version: 6.1.8.RELEASE
+    jakarta.servlet-api-version: 4.0.4
+    junit-platform-engine-version: 1.8.2
+    junit-platform-commons-version: 1.8.2
+    junit-jupiter-engine-version: 5.8.2
+    junit-jupiter-api-version: 5.8.2
+    spring-security-core-version: 5.7.0
+    spring-data-redis-version: 2.7.0
+    spring-data-keyvalue-version: 2.7.0
+    spring-context-support-version: 5.3.20
+    spring-context-version: 5.3.20
+    spring-tx-version: 5.3.20
+    spring-aop-version: 5.3.20
+    spring-web-version: 5.3.20
+    spring-oxm-version: 5.3.20
+    spring-data-commons-version: 2.7.0
+    spring-beans-version: 5.3.20
+    spring-expression-version: 5.3.20
+    spring-core-version: 5.3.20
+    spring-jcl-version: 5.3.20
+    jakarta.annotation-api-version: 1.3.5
+    byte-buddy-version: 1.12.8
+    byte-buddy-agent-version: 1.12.8
+    objenesis-version: 3.2
+    netty-handler-version: 4.1.75.Final
+    netty-codec-version: 4.1.75.Final
+    netty-transport-version: 4.1.75.Final
+    netty-resolver-version: 4.1.75.Final
+    netty-buffer-version: 4.1.75.Final
+    netty-common-version: 4.1.75.Final
+    reactor-core-version: 3.4.18
+    opentest4j-version: 1.2.0
+    slf4j-api-version: 1.7.32
+    spring-security-crypto-version: 5.7.0
+    reactive-streams-version: 1.0.3
