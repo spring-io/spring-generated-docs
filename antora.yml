@@ -34,6 +34,7 @@ asciidoc:
     spring-security-config-version: 6.0.0-SNAPSHOT
     spring-security-test-version: 6.0.0-SNAPSHOT
     spring-security-web-version: 6.0.0-SNAPSHOT
+    mockito-junit-jupiter-version: 4.2.0
     mockito-core-version: 4.2.0
     spring-test-version: 6.0.0-SNAPSHOT
     assertj-core-version: 3.22.0
