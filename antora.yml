@@ -1,6 +1,6 @@
-'name': 'ROOT'
-'prerelease': '-SNAPSHOT'
-'version': '5.7.4'
+name: 'ROOT'
+version: 5.7.4
+prerelease: '-SNAPSHOT'
 
 title: Spring Security
 start_page: ROOT:index.adoc
