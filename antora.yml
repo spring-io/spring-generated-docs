@@ -1,6 +1,7 @@
-name: 'ROOT'
-version: 6.0.0
-prerelease: '-SNAPSHOT'
+'display_version': '6.0.0-M7'
+'name': 'ROOT'
+'prerelease': 'true'
+'version': '6.0.0-M7'
 
 title: Spring Security
 start_page: ROOT:index.adoc
@@ -11,12 +12,12 @@ asciidoc:
     icondir: icons
     gh-old-samples-url: https://github.com/spring-projects/spring-security/tree/5.4.x/samples
     gh-samples-url: https://github.com/spring-projects/spring-security-samples/tree/main
-    gh-url: https://github.com/spring-projects/spring-security/tree/main
-    security-api-url: https://docs.spring.io/spring-security/site/docs/current/api/
-    security-reference-url: https://docs.spring.io/spring-security/site/docs/current/reference/html5/
+    gh-url: https://github.com/spring-projects/spring-security/tree/6.0.0-M7
+    security-api-url: https://docs.spring.io/spring-security/site/docs/6.0.0-M7/api/
+    security-reference-url: https://docs.spring.io/spring-security/site/docs/6.0.0-M7/reference/html5/
     spring-framework-api-url: https://docs.spring.io/spring-framework/docs/6.0.0-M6/javadoc-api/
     spring-framework-reference-url: https://docs.spring.io/spring-framework/docs/6.0.0-M6/reference/html/
-    spring-security-version: 6.0.0-SNAPSHOT
+    spring-security-version: 6.0.0-M7
 
     unboundid-ldapsdk-version: 4.0.14
     apacheds-core-version: 1.5.5
