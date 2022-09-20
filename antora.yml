@@ -1,6 +1,7 @@
 name: ROOT
-version: '3.0.0'
-prerelease: '-SNAPSHOT'
+version: '3.0.0-M3'
+prerelease: 'true'
+display_version: '3.0.0-M3'
 
 title: Spring Session
 start_page: ROOT:index.adoc
@@ -9,8 +10,8 @@ nav:
 
 asciidoc:
   attributes:
-    download-url: "https://github.com/spring-projects/spring-session/archive/main.zip"
-    gh-samples-url: "https://github.com/spring-projects/spring-session/tree/main/spring-session-samples/"
+    download-url: "https://github.com/spring-projects/spring-session/archive/3.0.0-M3.zip"
+    gh-samples-url: "https://github.com/spring-projects/spring-session/tree/3.0.0-M3/spring-session-samples/"
     samples-dir: "example$spring-session-samples/"
     session-jdbc-main-resources-dir: "example$session-jdbc-main-resources-dir/"
     spring-session-data-mongodb-dir: "example$spring-session-data-mongodb-dir/"
@@ -18,15 +19,15 @@ asciidoc:
     websocketdoc-test-dir: 'example$java/docs/websocket/'
     docs-test-resources-dir: "example$resources/"
     indexdoc-tests: "example$java/docs/IndexDocTests.java"
-    spring-session-version: 3.0.0-SNAPSHOT
-    version-milestone: false
+    spring-session-version: 3.0.0-M3
+    version-milestone: true
     version-release: false
-    version-snapshot: true
+    version-snapshot: false
     spring-boot-version: 3.0.0-SNAPSHOT
 
-    spring-session-data-redis-version: 3.0.0-SNAPSHOT
-    spring-session-jdbc-version: 3.0.0-SNAPSHOT
-    spring-session-core-version: 3.0.0-SNAPSHOT
+    spring-session-data-redis-version: 3.0.0-M3
+    spring-session-jdbc-version: 3.0.0-M3
+    spring-session-core-version: 3.0.0-M3
     spring-jdbc-version: 6.0.0-M6
     spring-messaging-version: 6.0.0-M6
     spring-webmvc-version: 6.0.0-M6
