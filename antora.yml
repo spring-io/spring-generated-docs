@@ -27,53 +27,53 @@ asciidoc:
     spring-session-data-redis-version: 3.0.0-SNAPSHOT
     spring-session-jdbc-version: 3.0.0-SNAPSHOT
     spring-session-core-version: 3.0.0-SNAPSHOT
-    spring-jdbc-version: 6.0.0-SNAPSHOT
-    spring-messaging-version: 6.0.0-SNAPSHOT
-    spring-webmvc-version: 6.0.0-SNAPSHOT
-    spring-websocket-version: 6.0.0-SNAPSHOT
-    spring-security-config-version: 6.0.0-SNAPSHOT
-    spring-security-test-version: 6.0.0-SNAPSHOT
-    spring-security-web-version: 6.0.0-SNAPSHOT
-    mockito-junit-jupiter-version: 4.2.0
-    mockito-core-version: 4.2.0
-    spring-test-version: 6.0.0-SNAPSHOT
-    assertj-core-version: 3.22.0
-    hazelcast-version: 5.0.3
-    lettuce-core-version: 6.1.6.RELEASE
+    spring-jdbc-version: 6.0.0-M6
+    spring-messaging-version: 6.0.0-M6
+    spring-webmvc-version: 6.0.0-M6
+    spring-websocket-version: 6.0.0-M6
+    spring-security-config-version: 6.0.0-M7
+    spring-security-test-version: 6.0.0-M7
+    spring-security-web-version: 6.0.0-M7
+    mockito-junit-jupiter-version: 4.8.0
+    mockito-core-version: 4.8.0
+    spring-test-version: 6.0.0-M6
+    assertj-core-version: 3.23.1
+    hazelcast-version: 5.1.3
+    lettuce-core-version: 6.2.0.RELEASE
     jakarta.annotation-api-version: 2.0.0
     jakarta.servlet-api-version: 5.0.0
-    junit-platform-engine-version: 1.8.2
-    junit-platform-commons-version: 1.8.2
-    junit-jupiter-engine-version: 5.8.2
-    junit-jupiter-api-version: 5.8.2
-    spring-security-core-version: 6.0.0-SNAPSHOT
-    spring-data-redis-version: 3.0.0-M4
-    spring-data-keyvalue-version: 3.0.0-M4
-    spring-context-support-version: 6.0.0-SNAPSHOT
-    spring-context-version: 6.0.0-SNAPSHOT
-    spring-tx-version: 6.0.0-SNAPSHOT
-    spring-aop-version: 6.0.0-SNAPSHOT
-    spring-web-version: 6.0.0-SNAPSHOT
-    spring-oxm-version: 6.0.0-SNAPSHOT
-    spring-data-commons-version: 3.0.0-M4
-    spring-beans-version: 6.0.0-SNAPSHOT
-    spring-expression-version: 6.0.0-SNAPSHOT
-    spring-core-version: 6.0.0-SNAPSHOT
-    spring-jcl-version: 6.0.0-SNAPSHOT
-    byte-buddy-version: 1.12.4
-    byte-buddy-agent-version: 1.12.4
+    junit-platform-engine-version: 1.9.0
+    junit-platform-commons-version: 1.9.0
+    junit-jupiter-engine-version: 5.9.0
+    junit-jupiter-api-version: 5.9.0
+    spring-security-core-version: 6.0.0-M7
+    spring-data-redis-version: 3.0.0-M6
+    spring-data-keyvalue-version: 3.0.0-M6
+    spring-context-support-version: 6.0.0-M6
+    spring-context-version: 6.0.0-M6
+    spring-tx-version: 6.0.0-M6
+    spring-aop-version: 6.0.0-M6
+    spring-web-version: 6.0.0-M6
+    spring-oxm-version: 6.0.0-M6
+    spring-data-commons-version: 3.0.0-M6
+    spring-beans-version: 6.0.0-M6
+    spring-expression-version: 6.0.0-M6
+    spring-core-version: 6.0.0-M6
+    spring-jcl-version: 6.0.0-M6
+    byte-buddy-version: 1.12.14
+    byte-buddy-agent-version: 1.12.14
     objenesis-version: 3.2
-    netty-handler-version: 4.1.72.Final
-    netty-codec-version: 4.1.72.Final
-    netty-transport-version: 4.1.72.Final
-    netty-resolver-version: 4.1.72.Final
-    netty-buffer-version: 4.1.72.Final
-    netty-common-version: 4.1.72.Final
-    reactor-core-version: 3.4.18
+    netty-handler-version: 4.1.79.Final
+    netty-transport-native-unix-common-version: 4.1.79.Final
+    netty-codec-version: 4.1.79.Final
+    netty-transport-version: 4.1.79.Final
+    netty-resolver-version: 4.1.79.Final
+    netty-buffer-version: 4.1.79.Final
+    netty-common-version: 4.1.79.Final
+    reactor-core-version: 3.5.0-M6
     opentest4j-version: 1.2.0
     slf4j-api-version: 1.7.32
     micrometer-observation-version: 1.10.0-M6
-    spring-security-crypto-version: 6.0.0-SNAPSHOT
-    netty-tcnative-classes-version: 2.0.46.Final
-    reactive-streams-version: 1.0.3
+    spring-security-crypto-version: 6.0.0-M7
+    reactive-streams-version: 1.0.4
     micrometer-commons-version: 1.10.0-M6
