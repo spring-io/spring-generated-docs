@@ -1,7 +1,6 @@
 'name': 'ROOT'
 'prerelease': '-SNAPSHOT'
 'version': '5.8.0'
-
 title: Spring Security
 start_page: ROOT:index.adoc
 nav:
