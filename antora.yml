@@ -17,7 +17,7 @@ asciidoc:
     spring-framework-reference-url: https://docs.spring.io/spring-framework/docs/6.0.0-M6/reference/html/
     spring-security-version: 6.0.0-SNAPSHOT
 
-    unboundid-ldapsdk-version: 4.0.14
+    unboundid-ldapsdk-version: 6.0.6
     apacheds-core-version: 1.5.5
     spring-core-version: 6.0.0-M6
     apacheds-xdbm-search-version: 1.5.5
