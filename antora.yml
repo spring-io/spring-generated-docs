@@ -1,8 +1,7 @@
-name: 'ROOT'
+name: ROOT
 version: '5.6.8'
 prerelease: '-SNAPSHOT'
 title: Spring Security
-start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
 asciidoc:
@@ -16,7 +15,6 @@ asciidoc:
     spring-framework-api-url: https://docs.spring.io/spring-framework/docs/5.3.22/javadoc-api/
     spring-framework-reference-url: https://docs.spring.io/spring-framework/docs/5.3.22/reference/html/
     spring-security-version: 5.6.8-SNAPSHOT
-
     unboundid-ldapsdk-version: 4.0.14
     apacheds-core-version: 1.5.5
     spring-core-version: 5.3.22
