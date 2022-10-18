@@ -31,9 +31,9 @@ asciidoc:
     spring-messaging-version: 6.0.0-RC1
     spring-webmvc-version: 6.0.0-RC1
     spring-websocket-version: 6.0.0-RC1
-    spring-security-config-version: 6.0.0-SNAPSHOT
-    spring-security-test-version: 6.0.0-SNAPSHOT
-    spring-security-web-version: 6.0.0-SNAPSHOT
+    spring-security-config-version: 6.0.0-RC1
+    spring-security-test-version: 6.0.0-RC1
+    spring-security-web-version: 6.0.0-RC1
     mockito-junit-jupiter-version: 4.8.1
     mockito-core-version: 4.8.1
     spring-test-version: 6.0.0-RC1
@@ -45,7 +45,7 @@ asciidoc:
     junit-platform-commons-version: 1.9.1
     junit-jupiter-engine-version: 5.9.1
     junit-jupiter-api-version: 5.9.1
-    spring-security-core-version: 6.0.0-SNAPSHOT
+    spring-security-core-version: 6.0.0-RC1
     spring-data-redis-version: 3.0.0-RC1
     spring-data-keyvalue-version: 3.0.0-RC1
     spring-context-support-version: 6.0.0-RC1
@@ -73,6 +73,6 @@ asciidoc:
     opentest4j-version: 1.2.0
     slf4j-api-version: 2.0.2
     micrometer-observation-version: 1.10.0-RC1
-    spring-security-crypto-version: 6.0.0-SNAPSHOT
+    spring-security-crypto-version: 6.0.0-RC1
     reactive-streams-version: 1.0.4
     micrometer-commons-version: 1.10.0-RC1
