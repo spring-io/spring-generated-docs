@@ -72,7 +72,7 @@ asciidoc:
     reactor-core-version: 3.5.0-SNAPSHOT
     opentest4j-version: 1.2.0
     slf4j-api-version: 2.0.2
-    micrometer-observation-version: 1.10.0-SNAPSHOT
+    micrometer-observation-version: 1.10.0-RC1
     spring-security-crypto-version: 6.0.0-SNAPSHOT
     reactive-streams-version: 1.0.4
-    micrometer-commons-version: 1.10.0-SNAPSHOT
+    micrometer-commons-version: 1.10.0-RC1
