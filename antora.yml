@@ -27,16 +27,16 @@ asciidoc:
     spring-session-data-redis-version: 3.0.0-SNAPSHOT
     spring-session-jdbc-version: 3.0.0-SNAPSHOT
     spring-session-core-version: 3.0.0-SNAPSHOT
-    spring-jdbc-version: 6.0.0-RC1
-    spring-messaging-version: 6.0.0-RC1
-    spring-webmvc-version: 6.0.0-RC1
-    spring-websocket-version: 6.0.0-RC1
-    spring-security-config-version: 6.0.0-RC1
-    spring-security-test-version: 6.0.0-RC1
-    spring-security-web-version: 6.0.0-RC1
+    spring-jdbc-version: 6.0.0-RC4
+    spring-messaging-version: 6.0.0-RC4
+    spring-webmvc-version: 6.0.0-RC4
+    spring-websocket-version: 6.0.0-RC4
+    spring-security-config-version: 6.0.0-RC2
+    spring-security-test-version: 6.0.0-RC2
+    spring-security-web-version: 6.0.0-RC2
     mockito-junit-jupiter-version: 4.8.1
     mockito-core-version: 4.8.1
-    spring-test-version: 6.0.0-RC1
+    spring-test-version: 6.0.0-RC4
     assertj-core-version: 3.23.1
     hazelcast-version: 5.1.4
     lettuce-core-version: 6.2.1.RELEASE
@@ -45,20 +45,20 @@ asciidoc:
     junit-platform-commons-version: 1.9.1
     junit-jupiter-engine-version: 5.9.1
     junit-jupiter-api-version: 5.9.1
-    spring-security-core-version: 6.0.0-RC1
-    spring-data-redis-version: 3.0.0-RC1
-    spring-data-keyvalue-version: 3.0.0-RC1
-    spring-context-support-version: 6.0.0-RC1
-    spring-context-version: 6.0.0-RC1
-    spring-tx-version: 6.0.0-RC1
-    spring-aop-version: 6.0.0-RC1
-    spring-web-version: 6.0.0-RC1
-    spring-oxm-version: 6.0.0-RC1
-    spring-data-commons-version: 3.0.0-RC1
-    spring-beans-version: 6.0.0-RC1
-    spring-expression-version: 6.0.0-RC1
-    spring-core-version: 6.0.0-RC1
-    spring-jcl-version: 6.0.0-RC1
+    spring-security-core-version: 6.0.0-RC2
+    spring-data-redis-version: 3.0.0-RC2
+    spring-data-keyvalue-version: 3.0.0-RC2
+    spring-context-support-version: 6.0.0-RC4
+    spring-context-version: 6.0.0-RC4
+    spring-tx-version: 6.0.0-RC4
+    spring-aop-version: 6.0.0-RC4
+    spring-web-version: 6.0.0-RC4
+    spring-oxm-version: 6.0.0-RC4
+    spring-data-commons-version: 3.0.0-RC2
+    spring-beans-version: 6.0.0-RC4
+    spring-expression-version: 6.0.0-RC4
+    spring-core-version: 6.0.0-RC4
+    spring-jcl-version: 6.0.0-RC4
     byte-buddy-version: 1.12.16
     byte-buddy-agent-version: 1.12.16
     objenesis-version: 3.2
@@ -69,10 +69,10 @@ asciidoc:
     netty-resolver-version: 4.1.82.Final
     netty-buffer-version: 4.1.82.Final
     netty-common-version: 4.1.82.Final
-    reactor-core-version: 3.5.0-RC1
+    reactor-core-version: 3.5.0
     opentest4j-version: 1.2.0
     slf4j-api-version: 2.0.2
-    micrometer-observation-version: 1.10.0-RC1
-    spring-security-crypto-version: 6.0.0-RC1
+    micrometer-observation-version: 1.10.0
+    spring-security-crypto-version: 6.0.0-RC2
     reactive-streams-version: 1.0.4
-    micrometer-commons-version: 1.10.0-RC1
+    micrometer-commons-version: 1.10.0
