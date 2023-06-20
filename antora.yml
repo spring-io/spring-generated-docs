@@ -9,8 +9,8 @@ nav:
 
 asciidoc:
   attributes:
-    download-url: "https://github.com/spring-projects/spring-session/archive/main.zip"
-    gh-samples-url: "https://github.com/spring-projects/spring-session/tree/main/spring-session-samples/"
+    download-url: "https://github.com/spring-projects/spring-session/archive/2.7.2.zip"
+    gh-samples-url: "https://github.com/spring-projects/spring-session/tree/2.7.2/spring-session-samples/"
     samples-dir: "example$spring-session-samples/"
     session-jdbc-main-resources-dir: "example$session-jdbc-main-resources-dir/"
     spring-session-data-mongodb-dir: "example$spring-session-data-mongodb-dir/"
@@ -18,16 +18,16 @@ asciidoc:
     websocketdoc-test-dir: 'example$java/docs/websocket/'
     docs-test-resources-dir: "example$resources/"
     indexdoc-tests: "example$java/docs/IndexDocTests.java"
-    spring-session-version: 2.7.2-SNAPSHOT
-    version-milestone: false
+    spring-session-version: 2.7.2
+    version-milestone: true
     version-release: false
-    version-snapshot: true
+    version-snapshot: false
     spring-boot-version: 2.7.8
 
-    spring-session-data-redis-version: 2.7.2-SNAPSHOT
-    spring-session-hazelcast-version: 2.7.2-SNAPSHOT
-    spring-session-jdbc-version: 2.7.2-SNAPSHOT
-    spring-session-core-version: 2.7.2-SNAPSHOT
+    spring-session-data-redis-version: 2.7.2
+    spring-session-hazelcast-version: 2.7.2
+    spring-session-jdbc-version: 2.7.2
+    spring-session-core-version: 2.7.2
     spring-jdbc-version: 5.3.28
     spring-messaging-version: 5.3.28
     spring-webmvc-version: 5.3.28
